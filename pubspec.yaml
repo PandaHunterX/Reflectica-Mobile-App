@@ -80,7 +80,7 @@ flutter:
         - asset: assets/fonts/Montserrat-ExtraBold.ttf
   #       - asset: fonts/Schyler-Italic.ttf
           style: normal
-    - family: Trajan Pro
+    - family: Lora
       fonts:
         - asset: assets/fonts/Lora-Regular.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf

@@ -4,6 +4,8 @@ const primaryBlack = Color(0xff1F1F1F);
 
 const secondaryGrey = Color(0xff5D5D5D);
 
+const boxWhite = Color(0xffECF0F5);
+
 const appColor = Color(0xff969696);
 
 const textHeader = TextStyle(
