@@ -36,11 +36,13 @@ class Main extends StatelessWidget {
           toolbarHeight: 127,
         ),
         backgroundColor: appColor,
-        body: const Column(
-          children: [
-            NavBar(),
-            BookPage()
-          ],
+        body: const SingleChildScrollView(
+          child: Column(
+            children: [
+              NavBar(),
+              BookPage()
+            ],
+          ),
         )
       ),
     );
