@@ -13,4 +13,10 @@ const textHeader = TextStyle(
     fontSize: 40,
     color: Color(0xffECF0F5));
 
+const textParagraph = TextStyle(
+    fontFamily: 'Montserrat',
+    fontSize: 20,
+    wordSpacing: 4,
+    color: Color(0xff1F1F1F));
+
 const String appIcon = 'assets/images/Icon.png';
